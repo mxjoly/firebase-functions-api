@@ -12,11 +12,11 @@ This project is using [Node.js](https://nodejs.org/) with [Firebase](https://fir
 
 ## Features 
 
-- Basic authentification actions : login, signup, signout (with a password, Facebook and Google)
+- Basic authentification actions : login, signup, signout (with a password, Facebook and Google).
 - Save the users in [Cloud Firestone](https://firebase.google.com/docs/firestore) with a profile and credential document.
-- Different function to manage a user (update the profile, update the password, ask for a new password)
-- Control the requests by the headers (authentification token verification)
-- Possibility to send emails with [nodemailer](https://nodemailer.com/about/)
+- Different functions to manage a user (update the profile, update the password, ask for resetting the password).
+- Control the requests by the headers (authentification token verification).
+- Possibility to send emails with [nodemailer](https://nodemailer.com/about/).
 
 ## Quick Start
 

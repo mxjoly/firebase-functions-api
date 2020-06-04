@@ -30,9 +30,6 @@ node_modules/.bin/firebase login
 # Choose a firebase project
 node_modules/.bin/firebase use <project_id>
 
-# Build the cloud functions
-npm run build
-
 # Test locally
 npm run serve
 

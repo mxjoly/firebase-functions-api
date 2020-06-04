@@ -1,0 +1,30 @@
+{
+  "users": {
+    "user": {
+      "uid": "string",
+      "provider": "password|facebook.com|google.com",
+      "emailVerified": "boolean",
+      "isNew": "boolean",
+      "membership": "free|gold|premium",
+      "contact": {
+        "email": "string",
+        "phoneNumber": "string"
+      },
+      "metadata": {
+        "createdAt": "timestamp",
+        "lastLoginAt": "timestamp"
+      }
+    }
+  },
+  "profiles": {
+    "profile": {
+      "uid": "string",
+      "username": "string",
+      "gender": "male|female",
+      "age": "number",
+      "bio": "string",
+      "coords": "map",
+      "photoURL": "string"
+    }
+  }
+}

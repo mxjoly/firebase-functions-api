@@ -1,0 +1,19 @@
+{
+  "reset_password_ask": {
+    "subject": "Demande de réinitialisation du mot de passe",
+    "title": "Réinitialisation du mot de passe",
+    "description": "Tu as oublié ton mot de passe associé à ton compte ? Clique sur le lien ci-dessous pour en créer un nouveau.",
+    "button_title": "Réinitialiser",
+    "warnings": "Tu n'as pas demandé de réinitialiser ton mot de passe ? Il pourrait y avoir un abus. Vérifie les données d'accès de ton compte et informe notre support : ",
+    "wish": "À bientôt !",
+    "contact": "Cet e-mail a été envoyé par [...].<br>Company Inc, 3 Abbey Road, San Francisco CA 94102<br>©2019 Blipee Group, LLC. | Politique de confidentialité"
+  },
+  "reset_password_unavailable": {
+    "subject": "Demande de réinitialisation du mot de passe",
+    "title": "Réinitialisation du mot de passe",
+    "description": "Tu as oublié ton mot de passe associé à ton compte ? Cependant, il semblerait que ton compte soit associé à un fournisseur de connection externe (facebook, google, ...). Pour mettre à jour ton mot de passe, contacte ce fournisseur.",
+    "warnings": "Tu n'as pas demandé de réinitialiser ton mot de passe ? Il pourrait y avoir un abus. Vérifie les données d'accès de ton compte et informe notre support : ",
+    "wish": "À bientôt !",
+    "contact": "Cet e-mail a été envoyé par [...].<br>Company Inc, 3 Abbey Road, San Francisco CA 94102<br>©2019 Blipee Group, LLC. | Politique de confidentialité"
+  }
+}

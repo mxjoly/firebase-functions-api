@@ -1,0 +1,19 @@
+{
+  "reset_password_ask": {
+    "subject": "You ask to reset your password",
+    "title": "Reset password",
+    "description": "You forgot your password associated with your account ? Click on the link below to create a new one.",
+    "button_title": "Reset",
+    "warnings": "Didn't you ask to reset your password ? There may be an abuse. Please check your account access data and inform our support : ",
+    "wish": "See you soon !",
+    "contact": "This e-mail has been send by [...].<br>Company Inc, 3 Abbey Road, San Francisco CA 94102<br>©2019 Blipee Group, LLC. | Politique de confidentialité"
+  },
+  "reset_password_unavailable": {
+    "subject": "You ask to reset your password",
+    "title": "Reset password",
+    "description": "You forgot your password associated with your account ? However, it seems that your account is linked with an extern connexion provider (facebook, google...). To update your password, please contact this provider.",
+    "warnings": "Didn't you ask to reset your password ? There may be an abuse. Please check your account access data and inform our support : ",
+    "wish": "See you soon !",
+    "contact": "This e-mail has been send by [...].<br>Company Inc, 3 Abbey Road, San Francisco CA 94102<br>©2019 Blipee Group, LLC. | Politique de confidentialité"
+  }
+}

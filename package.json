@@ -14,6 +14,7 @@
     "deploy": "cross-env ENV=development firebase deploy --only functions"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "firebase": "^7.14.5",
     "firebase-admin": "^8.12.1",
